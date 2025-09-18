@@ -80,6 +80,5 @@ $env:TESSERACT_EXECUTABLE = "C:\Program Files\Tesseract-OCR\tesseract.exe"
 - 若練習站的文案/DOM 更新，可能需要調整選擇器；請回報我以便修正。
 
 ---
-若你要加入指定場次、偏好座位、截圖/錄影或更進階的重試策略，告訴我你的需求，我可以擴充腳本與參數。
 
 
