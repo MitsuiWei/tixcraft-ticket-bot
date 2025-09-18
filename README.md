@@ -77,8 +77,6 @@ $env:TESSERACT_EXECUTABLE = "C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 ### 5. 注意事項
 - 本專案針對練習站點（`ticket-training.onrender.com`）流程而寫，請勿用於違反網站條款之用途。
-- 若練習站的文案/DOM 更新，可能需要調整選擇器；請回報我以便修正。
-
 ---
 
 
